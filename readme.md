@@ -1,6 +1,4 @@
-# JSON
-
-Introdução ao JSON
+# Introdução ao JSON
 
 JSON, que significa JavaScript Object Notation, é um formato de dados leve que é usado para armazenar e transportar dados. JSON é muitas vezes usado quando os dados são enviados de um servidor para uma página web.
 
